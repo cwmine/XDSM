@@ -4,7 +4,7 @@
 #### Requirement:
 
 * Python 2.7.X
-* newest TexLive suite or Mic(need Xetex-relevant pacakges)
+* newest TexLive or other latex suite (need Xetex-relevant pacakges)
 
 
 ##### Feature(Compared with original version):
