@@ -3,8 +3,8 @@
 
 #### Requirement:
 
-..* Python 2.7.X
-..* newest Latex suite(need Xetex-relevant pacakges)
+* Python 2.7.X
+* newest TexLive suite or Mic(need Xetex-relevant pacakges)
 
 
 ##### Feature(Compared with original version):
@@ -19,14 +19,17 @@ greatcwmine AT gmail DOT com
     
 
 ----------
-This code is a modified version original version:
+This code is a modified version from 
 
-    http://mdolab.engin.umich.edu/content/xdsm-overview
 
-    A. B. Lambe and J. R. R. A. Martins, “Extensions to the Design Structure
-    Matrix for the Description of Multidisciplinary Design, Analysis, and
-    Optimization Processes”, Structural and Multidisciplinary Optimization,
-    vol. 46, no. 2, p. 273-284, 2012. DOI 10.1007/s00158-012-0763-y
+>   http://mdolab.engin.umich.edu/content/xdsm-overview
+
+
+>   A. B. Lambe and J. R. R. A. Martins, “Extensions to the Design Structure
+>   Matrix for the Description of Multidisciplinary Design, Analysis, and
+>   Optimization Processes”, Structural and Multidisciplinary Optimization,
+>   vol. 46, no. 2, p. 273-284, 2012. DOI 10.1007/s00158-012-0763-y
+
 
 Thank A. B. Lambe for the permmition to share it here.
 
