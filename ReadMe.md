@@ -14,8 +14,12 @@
 3. Chinese support based on Xetex, (using XDSMCJK)
 
 Detals can be refered from the source code and example file.
+
+
 Any question contact:
-greatcwmine AT gmail DOT com
+
+
+> greatcwmine AT gmail DOT com
     
 
 ----------
@@ -31,5 +35,5 @@ This code is a modified version from
 >   vol. 46, no. 2, p. 273-284, 2012. DOI 10.1007/s00158-012-0763-y
 
 
-Thank A. B. Lambe for the permmition to share it here.
+Thank A. B. Lambe, J. R. R. A. Martins  for the permmition to develop and share it to us.
 
