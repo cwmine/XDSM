@@ -28,12 +28,16 @@ This code is a modified version from
 
 >   http://mdolab.engin.umich.edu/content/xdsm-overview
 
-
->   A. B. Lambe and J. R. R. A. Martins, “Extensions to the Design Structure
->   Matrix for the Description of Multidisciplinary Design, Analysis, and
->   Optimization Processes”, Structural and Multidisciplinary Optimization,
->   vol. 46, no. 2, p. 273-284, 2012. DOI 10.1007/s00158-012-0763-y
+licensed by:
+> The XDSM LaTeX source and generator files are provided as-is and free of charge. Users are free to download, modify, and redistribute the software as they please, provided this notice remains. 
 
 
-Thank A. B. Lambe, J. R. R. A. Martins to develop and share it to us.
+> If you use the XDSM format for research, we ask that you cite the following journal publication in your work:
+
+
+> A. B. Lambe and J. R. R. A. Martins, “Extensions to the Design Structure Matrix for the Description of Multidisciplinary Design, Analysis, and Optimization Processes”, Structural and Multidisciplinary Optimization, vol. 46, no. 2, p. 273-284, 2012.
+
+
+
+Thank A. B. Lambe, J. R. R. A. Martins for developing and sharing
 
